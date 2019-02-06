@@ -4,11 +4,11 @@ class PositiveNegative {
       double num = 3;
         if (num < 0)
         {
-            System.out.println("  Negative ");
+            System.out.println("Negative ");
         }
         else if ( num > 0)
         {
-            System.out.println( "  Positive ");
+            System.out.println( "Positive ");
         }
         else
         {
