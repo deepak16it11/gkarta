@@ -1,7 +1,7 @@
 import java.util.Arrays; 
 import java.util.Collections; 
 
- public class testcase 
+ class testcase 
 { 
     public static void kLargest(Integer [] arr, int k)  
     { 
